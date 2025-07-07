@@ -1,4 +1,4 @@
-/* RESET */
+
 * {
   margin: 0;
   padding: 0;
@@ -24,7 +24,6 @@ button, input, select {
   outline: none;
 }
 
-/* CABEÇALHO */
 .cabecalho {
   display: flex;
   justify-content: space-between;
@@ -65,7 +64,6 @@ button, input, select {
   border-radius: 4px;
 }
 
-/* INTRO */
 .intro {
   display: flex;
   justify-content: space-between;
@@ -125,7 +123,6 @@ button, input, select {
   max-width: 50%;
 }
 
-/* SERVIÇOS */
 .servicos {
   padding: 8vh 5vw;
   text-align: center;
@@ -160,7 +157,6 @@ button, input, select {
   font-size: 1.2rem;
 }
 
-/* DESTINOS */
 .lugares {
   padding: 8vh 5vw;
   text-align: center;
@@ -194,7 +190,6 @@ button, input, select {
   color: #666;
 }
 
-/* ETAPAS */
 .etapas {
   display: flex;
   flex-wrap: wrap;
@@ -254,7 +249,6 @@ button, input, select {
   font-size: 0.9rem;
 }
 
-/* RODAPÉ */
 .rodape {
   text-align: center;
   padding: 6vh 5vw;
