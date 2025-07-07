@@ -293,7 +293,6 @@ button, input, select {
   animation: pulsoAnimado 2s infinite;
 }
 
-/* ANIMAÇÕES */
 @keyframes pulsoAnimado {
   0%, 100% { transform: scale(1); }
   50% { transform: scale(1.1); }
